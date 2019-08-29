@@ -1,7 +1,7 @@
 # 整理的ppt
 
 ### git markdown PPT分享
-* [git markdown PPT分享]((git_markdown.md))
+* [git markdown PPT分享](git_markdown.md)
 ![git_markdown.001.jpeg](git_markdown/git_markdown.001.jpeg)
 
 ### 《职场PPT指南》阅读笔记
