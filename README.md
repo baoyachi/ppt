@@ -10,6 +10,9 @@
 ### Rust在项目中的实践
 ![Rust在项目中的实践](rust_project_pratice.jpeg)
 
+### Rust企业级应用最佳实践-rust-china-conf-2020
+![Rust企业级应用最佳实践-rust-china-conf-2020](Rust企业级应用最佳实践-rust-china-conf-2020.002.jpeg)
+
 ### 《职场PPT指南》阅读笔记
 * [职场PPT指南阅读笔记.png](learn_work_ppt.md)
 ![职场PPT指南阅读笔记.png](职场PPT指南阅读笔记.png)
