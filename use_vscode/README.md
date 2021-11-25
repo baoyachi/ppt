@@ -29,5 +29,6 @@ git config --global color.ui true
 
 
 
-
+## 快捷键（mac版本）
+* 上一个浏览位置：`ctrl + -`
 
