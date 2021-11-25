@@ -32,3 +32,7 @@ git config --global color.ui true
 ## 快捷键（mac版本）
 * 上一个浏览位置：`ctrl + -`
 
+
+## rust宏展开
+1. 鼠标放在 宏定义上，
+2. Windows / Linux: ctrl+shift+p；MacOs: Command+P；搜索框键入:`>rust macro`
