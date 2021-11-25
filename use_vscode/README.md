@@ -31,6 +31,7 @@ git config --global color.ui true
 
 ## 快捷键（mac版本）
 * 上一个浏览位置：`ctrl + -`
+* 下一个浏览位置：`ctrl + shift + -`
 
 
 ## rust宏展开
